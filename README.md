@@ -4,6 +4,9 @@
 
 A React-based Employee Management System that allows admins to assign tasks to employees and enables employees to view their assigned tasks based on their current status.
 
+live : https://6aad1f58e3bfa45c22d0d4f9--sparkling-trifle-546e02.netlify.app/
+
+
 ## Features
 
 - Admin and Employee Login
