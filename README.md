@@ -7,17 +7,11 @@ A React-based Employee Management System that allows admins to assign tasks to e
 live : https://6aad1f58e3bfa45c22d0d4f9--sparkling-trifle-546e02.netlify.app/
 
 (admin)
-Email:    admin@me.com
+Email:admin@me.com
 Password: password123
 
 (Employee) 
-Emails:
-employee1@example.com
-employee2@example.com
-employee3@example.com
-employee4@example.com
-employee5@example.com
-
+Emails:employee1@example.com
 password: password123
 
 ## Features
